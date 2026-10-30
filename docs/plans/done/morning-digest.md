@@ -77,3 +77,14 @@ page again with `LANE_MARKER` unset (the banner reads "no marker set") and uploa
 link. Move this plan to `docs/plans/done/` with its issue list.
 
 Done when: the preview link no longer shows the lane marker.
+
+## Issues
+
+- #1 Digest types: DigestRow + readNight signature (CLOSED): https://github.com/vertexbz/mega-s01e04-rig-handover/issues/1
+- #2 Run log reader + tests (CLOSED): https://github.com/vertexbz/mega-s01e04-rig-handover/issues/2
+- #3 Digest page: GET /digest/:night (CLOSED): https://github.com/vertexbz/mega-s01e04-rig-handover/issues/3
+- #4 Digest JSON: GET /api/digest/:night (CLOSED): https://github.com/vertexbz/mega-s01e04-rig-handover/issues/4
+- #5 Status board links to digests (CLOSED): https://github.com/vertexbz/mega-s01e04-rig-handover/issues/5
+- #6 Route tests for digest page + JSON (CLOSED): https://github.com/vertexbz/mega-s01e04-rig-handover/issues/6
+- #7 Preview HTML for reviewer (OPEN): https://github.com/vertexbz/mega-s01e04-rig-handover/issues/7
+- #8 Clean up marker + archive plan (OPEN): https://github.com/vertexbz/mega-s01e04-rig-handover/issues/8
